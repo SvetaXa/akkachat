@@ -1,0 +1,10 @@
+A client/server chat in Java written using Akka remote actors, Protocol Buffers
+It based on chat https://github.com/mariofusco/akkachat
+Run the ChatServer first and the how many ChatClients you want
+
+User guide:
+Print username for start
+Print 'all' to get all online users in chat
+Print 'bye' for finish
+
+This file was modified by IntelliJ IDEA 12.0.3 for binding GitHub repository

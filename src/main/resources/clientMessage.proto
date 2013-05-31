@@ -1,0 +1,6 @@
+option java_package = "ch.akkatest.chat.proto";
+option java_outer_classname = "ClientMessage";
+
+message Message {
+  optional string mes = 1;
+}
